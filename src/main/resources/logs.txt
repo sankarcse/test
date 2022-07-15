@@ -1,0 +1,6 @@
+DEBUG - log message Cardverify
+DEBUG - log message Cardverify
+DEBUG - log message Cardverify
+DEBUG - log message Cardverify
+DEBUG - log message Cardverify
+14-07-2022	com.cardverify.controller.Cardverify.getVavlue(Cardverify.java:38)	log message Cardverify
